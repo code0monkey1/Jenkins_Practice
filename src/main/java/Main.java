@@ -6,5 +6,6 @@ public class Main {
         System.out.println("This is the change in the code");
         System.out.println("This is the second change that will trigger another build on jenkins");
         System.out.println("This is to deploy on the server");
+        System.out.println("This should build , and the deployment should happen automatically");
     }
 }
